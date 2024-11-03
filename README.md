@@ -1,4 +1,4 @@
-# hs-fetch
+# hs-fetch 
 
 **hs-fetch** is a TypeScript-based HTTP client library offering features like token management, retry logic, and timeout settings. It is designed to integrate seamlessly with frameworks like Next.js 14, supporting modern server and client-side rendering use cases.
 
